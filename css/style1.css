@@ -1,0 +1,16 @@
+body {
+   background-image: url("/rockstar.jpg");
+   background-color: #cccccc;
+}
+
+p {
+	color: #353ef2;
+}
+
+h1 {
+	color: #353ef2;
+}
+body {
+	font-family: monospace;
+  background-image: url("/rockstar.jpg");
+}

@@ -1,0 +1,17 @@
+body {
+	font-family: monospace;
+  background-image: url("\rockstar.jpg");
+}
+
+body {
+   background-image: url("/rockstar.jpg");
+   background-color: #cccccc;
+}
+
+p {
+	color: white;
+}
+
+h1 {
+	color: white;
+}
